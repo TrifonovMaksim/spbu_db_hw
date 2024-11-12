@@ -1,8 +1,10 @@
 -- Создаем базу
 CREATE DATABASE hw1;
 
+
 -- Подключаемся к базе
 \c hw1
+
 
 -- Создаем таблицу courses
 CREATE TABLE courses (
